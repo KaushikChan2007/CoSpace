@@ -1,0 +1,16 @@
+# Java build output
+/out/
+*.class
+
+# Local application data and logs
+cospace.db
+cospace.db-shm
+cospace.db-wal
+*.log
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
